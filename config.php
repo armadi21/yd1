@@ -27,7 +27,6 @@ $config = [
 "354730020111021", // akun 21
 "354730020111022", // akun 22
 "354730020111023", // akun 23
-"354730020111024", // akun 24
         
         
         
@@ -61,8 +60,7 @@ $config = [
 "b452f6b9948ab4da62955e85c660e1636f2d4cdf", // akun 20
 "61e12a152fc02ac25ae27b8d71d361da8766ab6d", // akun 21
 "42b42d42dd25cbf73a040599a6258fb43b42bb4f", // akun 22
-"21c3561f58249c38efd59ca1c3d28a7d4d3ad7bb", // akun 23
-"812352a1215c3da504d8bbbe2f24670d6851be9c", // akun 24
+"812352a1215c3da504d8bbbe2f24670d6851be9c", // akun 23
         
         
         
@@ -93,8 +91,7 @@ $config = [
 "b49d0a1bdb1f2507c076c345c71f1b67", // akun 20
 "58e680d415805a2414bd381c31e6a407", // akun 21
 "a4c3be538bb478813fce08e95497d43d", // akun 22
-"be576d29461a888eb5f9cb127bb7b8be", // akun 23
-"97941a4387f4b099ddd00884adbd3763", // akun 24
+"97941a4387f4b099ddd00884adbd3763", // akun 23
        
 
 ],
@@ -122,8 +119,7 @@ $config = [
 "f7bf4805-0616-4c50-8c16-c3b318cb4cb9", // akun 20
 "ad5c2f86-9454-456c-b669-ca0351128232", // akun 21
 "feec0c28-a69b-416f-84dd-d37e32db66ad", // akun 22
-"9f047226-67de-4396-ad36-1c91d41d20df", // akun 23
-"529aae00-7190-4064-82b7-90e625b5e174", // akun 24
+"529aae00-7190-4064-82b7-90e625b5e174", // akun 23
 
 ],
  ];
