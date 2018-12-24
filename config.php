@@ -27,13 +27,13 @@ $config = [
 "354730020111021", // akun 21
 "354730020111022", // akun 22
 "354730020111023", // akun 23
-// akun 24
-// akun 25
-// akun 26
-// akun 27
-// akun 28
-// akun 29
-// akun 30
+"354730020111024", // akun 24
+"354730020111025", // akun 25
+"354730020111026", // akun 26
+"354730020111027", // akun 27
+"354730020111028", // akun 28
+"354730020111029", // akun 29
+"354730020111030", // akun 30
 // akun 31
 // akun 32
 // akun 33
@@ -95,13 +95,13 @@ $config = [
 "61e12a152fc02ac25ae27b8d71d361da8766ab6d", // akun 21
 "42b42d42dd25cbf73a040599a6258fb43b42bb4f", // akun 22
 "812352a1215c3da504d8bbbe2f24670d6851be9c", // akun 23
-// akun 24
-// akun 25
-// akun 26
-// akun 27
-// akun 28
-// akun 29
-// akun 30
+"a190645aaf15d2443da1ac5110b279ac3ad8072a", // akun 24
+"92b8ebf91a3b2c053b127c236850064c42d67609", // akun 25
+"1c28bab6b2ef70359660246d16594bd7cdd6d892", // akun 26
+"89b3a92cf7d3b9fc49cb6395628a5d5218fade9e", // akun 27
+"43d77dec28a7838b64dbd1796656ed76eae8e3d2", // akun 28
+"51732935b4e3530805a04770247961702584697c", // akun 29
+"e399d3d527eeb9b143b584c0c8045aeddaacfe28", // akun 30
 // akun 31
 // akun 32
 // akun 33
@@ -163,13 +163,13 @@ $config = [
 "58e680d415805a2414bd381c31e6a407", // akun 21
 "a4c3be538bb478813fce08e95497d43d", // akun 22
 "97941a4387f4b099ddd00884adbd3763", // akun 23
-// akun 24
-// akun 25
-// akun 26
-// akun 27
-// akun 28
-// akun 29
-// akun 30
+"188d7db6a11eb670db68134871c3343b", // akun 24
+"7dd9579aff98a68281d3ae6a636b853c", // akun 25
+"f7b751c6632a70da2b7952602368c5eb", // akun 26
+"820808b20609040d1fe308d63ed8e5f7", // akun 27
+"95c82bb04371bf8079adcda0f6289a9d", // akun 28
+"814c6ed456bfeaf8e02665861afcd38a", // akun 29
+"66d3c862b67a5c1273dd571af6c0c1fe", // akun 30
 // akun 31
 // akun 32
 // akun 33
@@ -228,13 +228,13 @@ $config = [
 "ad5c2f86-9454-456c-b669-ca0351128232", // akun 21
 "feec0c28-a69b-416f-84dd-d37e32db66ad", // akun 22
 "529aae00-7190-4064-82b7-90e625b5e174", // akun 23
-// akun 24
-// akun 25
-// akun 26
-// akun 27
-// akun 28
-// akun 29
-// akun 30
+"002edeb0-c158-4a93-87f4-fea7dc50bab3", // akun 24
+"40aefa86-9371-4464-ba3b-056806f1265e", // akun 25
+"8fd48a0e-098c-4e69-a33b-09fa11572981", // akun 26
+"2078805b-c2a0-4c80-951b-c4dcc4652cbd", // akun 27
+"3369d7ff-afa6-46b9-b446-2f4997605cb7", // akun 28
+"dbe953a3-346d-4126-9cc9-7b0acfdb57db", // akun 29
+"63e2a422-43d9-41b1-a376-9757ae4abc51", // akun 30
 // akun 31
 // akun 32
 // akun 33
