@@ -38,8 +38,8 @@ $config = [
 "354730020111032", // akun 32
 "354730020111033", // akun 33
 "354730020111034", // akun 34
-// akun 45
-// akun 36
+"354730020111035", // akun 35
+"354730020111036", // akun 36
 // akun 37
 // akun 38
 // akun 39
@@ -106,8 +106,8 @@ $config = [
 "3249cbc1430f84b635e6e84d3fdd0b043dd2277f", // akun 32
 "97746ba694a45efee13c07dd258a264c4d0b99fd", // akun 33
 "e9cfda88aa4e9f999f5a6f53b9498894b7928197", // akun 34
-// akun 45
-// akun 36
+"49715b3d73cca1a746392390df242dcdd4593373", // akun 45
+"c84a7f3136318a6be6fb9ea1a97413bc993f3446", // akun 36
 // akun 37
 // akun 38
 // akun 39
@@ -174,8 +174,8 @@ $config = [
 "74e1c81cc58dd9347eabd99295232f12", // akun 32
 "a2a9b353752a7cff039cc3735001c246", // akun 33
 "88fd74015bb0d269105ef3a2edc19be0", // akun 34
-// akun 45
-// akun 36
+"2ec6d175c43e74a585061d4dc344f67f", // akun 45
+"0780e9af914ae4a754b7b963d4f533b5", // akun 36
 // akun 37
 // akun 38
 // akun 39
@@ -239,8 +239,8 @@ $config = [
 "830b3bd9-048e-4a66-a564-8af938afce59", // akun 32
 "9fba15e9-f046-4c54-a637-26564ed579d0", // akun 33
 "57eac85d-1959-42a4-b09d-7332e4ec8a15", // akun 34
-// akun 45
-// akun 36
+"976c3b2b-0960-4a83-926e-f195a50a6f4d", // akun 35
+"f34e07c4-c3dd-4ffe-aeeb-c7ea2d8f78d4", // akun 36
 // akun 37
 // akun 38
 // akun 39
