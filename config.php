@@ -72,7 +72,7 @@ $config = [
 
     "sign" => [
     
-"fa2a0575abb190e6c77c332ea33ce28097323f17", // akun 1
+"fbacd399fffce5d7277458dff1d4756ba195112f", // akun 1
 "3e69314dcd3fb6f00594e95cf7271c1c9b4c825f", // akun 2
 "ce6adeafad40bad5174934b4f35d66c4bedfde6f", // akun 3
 "6bbb083f752fa98bea7df25439260c187c9536df", // akun 4
@@ -140,7 +140,7 @@ $config = [
 ],
    "token" => [
    
-"72cf27d2f7c9932f6a57be898eca4a03", // akun 1
+"cfc829560b9b67b3c24152f3c0fd02f1", // akun 1
 "10900062620a15f1079bc550fa4d2bd8", // akun 2
 "69de9f3a0c33ba986411f0bdf6aa0a07", // akun 3
 "e52f15287a693e906e8970b813c9846f", // akun 4
@@ -205,7 +205,7 @@ $config = [
 ],
     "uuid" => [
     
-"8c5dcd5a-7546-4bb2-9caa-e679c9f7a1f0", // akun 1
+"1496ad7b-9f60-4c0d-8891-cc70121cebcd", // akun 1
 "9a3c17b2-9d6d-4e3a-8238-379bbe1d820d", // akun 2
 "0aaa193a-a293-40ee-913f-814126ca601f", // akun 3
 "86e9121c-e3d1-414f-bf45-03b3a99d73c0", // akun 4
